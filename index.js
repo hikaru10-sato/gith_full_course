@@ -1,1 +1,3 @@
-console.log("Hello Git1");
+function great(){
+  console.log("Hello Git1");
+}
