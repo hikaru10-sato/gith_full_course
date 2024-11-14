@@ -1,3 +1,3 @@
 function great(){
-  console.log("Hello Git");
+  console.log("Hello");
 }
