@@ -3,4 +3,8 @@ function greet(){
 }
 
 greet();
+<<<<<<< HEAD
+=======
+greet();
+>>>>>>> feature
 greet();
